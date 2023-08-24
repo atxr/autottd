@@ -1,6 +1,8 @@
 # autottd ⚙️
 Automate and sandbox TTD recording with AWS
 
+![](assets/autottd.png)
+
 ## Setup
 ### autottd AMI
 #### Create new role and policy
